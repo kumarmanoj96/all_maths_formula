@@ -9,10 +9,10 @@ class CategoryTopicsScreen extends StatefulWidget {
   static const routeName = '/category-topics';
 
   @override
-  _CategoryContentsScreenState createState() => _CategoryContentsScreenState();
+  _CategoryTopicsScreenState createState() => _CategoryTopicsScreenState();
 }
 
-class _CategoryContentsScreenState extends State<CategoryTopicsScreen> {
+class _CategoryTopicsScreenState extends State<CategoryTopicsScreen> {
   String categoryId;
   var _loadedData = false;
   @override

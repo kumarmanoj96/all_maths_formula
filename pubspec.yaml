@@ -51,6 +51,30 @@ flutter:
     - assets/images/derivatives.png
     - assets/images/integrals.png
     - assets/pdfs/temp.pdf
+    - assets/pdfs/Basic_algebra_formulas_app.pdf
+    - assets/pdfs/Arithmetic_Operations_app.pdf
+    - assets/pdfs/Exponent_Properties_app.pdf
+    - assets/pdfs/Properties_of_Radicals_app.pdf
+    - assets/pdfs/Properties_Of_Inequalities_app.pdf
+    - assets/pdfs/Properties_Of_Absolute_Value_app.pdf
+    - assets/pdfs/Distance_Formula_app.pdf
+    - assets/pdfs/Complex_Numbers_app.pdf
+    - assets/pdfs/Logarithms_And_Log_Properties_app.pdf
+    - assets/pdfs/Factoring_Formulas_app.pdf
+    - assets/pdfs/Quadratic_Formula_app.pdf
+    - assets/pdfs/Square_Root_Property_app.pdf
+    - assets/pdfs/Constant_Function_app.pdf
+    - assets/pdfs/Circle_app.pdf
+    - assets/pdfs/Ellipse_app.pdf
+    - assets/pdfs/Hyperbola_app.pdf
+    - assets/pdfs/Square_app.pdf
+    - assets/pdfs/rectangle_app.pdf
+    - assets/pdfs/triangle_app.pdf
+    - assets/pdfs/parallelograms_app.pdf
+    - assets/pdfs/Trapezoid_app.pdf
+
+
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

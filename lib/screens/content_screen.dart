@@ -38,6 +38,7 @@ class _ContentScreenState extends State<ContentScreen> {
   }
 
   void loadPdf(String location) async {
+    print("location:$location");
     await PDFDocument.fromAsset(location).then((val) {
       document = val;
     }).catchError((e) {
